@@ -32,10 +32,15 @@ The Insurance Management Platform is a Spring Boot project that follows the Mode
 5. src/main/java/com.insurancemanagementplatform.model: This package contains the domain models for the clients, insurance policies, and claims.
 
 # Features:
+
 The Insurance Management Platform is a full-fledged insurance management system that allows users to manage insurance policies, clients, and claims using RESTful APIs. The platform provides the following features:
 
-Create, read, update, and delete clients, insurance policies, and claims.
-Fetch all clients, insurance policies, and claims or get a specific client, policy, or claim by ID.
-Each policy is associated with a client, and each claim is associated with a policy.
-Spring Data JPA is used to interact with the embedded database or MySQL database.
-Exception handling and validation are implemented to ensure proper API usage and data integrity.
+1. Create, read, update, and delete clients, insurance policies, and claims.
+
+2. Fetch all clients, insurance policies, and claims or get a specific client, policy, or claim by ID.
+
+3. Each policy is associated with a client, and each claim is associated with a policy.
+
+4. Spring Data JPA is used to interact with the embedded database or MySQL database.
+
+5. Exception handling and validation are implemented to ensure proper API usage and data integrity.
