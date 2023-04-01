@@ -4,12 +4,18 @@ Build an insurance management platform that allows users to manage insurance pol
 
 # To run the Insurance Management Platform locally, follow the steps below:
 
-Clone the project repository from GitHub to your local machine.
-Ensure that you have the latest version of Java and Maven installed on your machine.
-Open project in eclipse and navigate to the project directory.
-Right click on project and run as Spring Boot App.
-This will start the application on your local machine.
-You can access the application by visiting http://localhost:8099/ in your web browser.
+1. Clone the project repository from GitHub to your local machine.
+
+2. Ensure that you have the latest version of Java and Maven installed on your machine.
+
+3. Open project in eclipse and navigate to the project directory.
+
+4. Right click on project and run as Spring Boot App.
+
+5. This will start the application on your local machine.
+
+6. You can access the application by visiting http://localhost:8099/ in your web browser.
+
 
 # Project Structure:
 The Insurance Management Platform is a Spring Boot project that follows the Model-View-Controller (MVC) architecture. The project has the following structure:
