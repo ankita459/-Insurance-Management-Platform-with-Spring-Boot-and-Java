@@ -18,17 +18,18 @@ Build an insurance management platform that allows users to manage insurance pol
 
 
 # Project Structure:
+
 The Insurance Management Platform is a Spring Boot project that follows the Model-View-Controller (MVC) architecture. The project has the following structure:
 
-src/main/java/com.insurancemanagementplatform: This package contains the main application class and the configuration classes.
+1. src/main/java/com.insurancemanagementplatform: This package contains the main application class and the configuration classes.
 
-src/main/java/com.insurancemanagementplatform.controller: This package contains the RESTful API controllers for managing clients, insurance policies, and claims.
+2. src/main/java/com.insurancemanagementplatform.controller: This package contains the RESTful API controllers for managing clients, insurance policies, and claims.
 
-src/main/java/com.insurancemanagementplatform.service: This package contains the service classes that interact with the repositories and perform business logic.
+3. src/main/java/com.insurancemanagementplatform.service: This package contains the service classes that interact with the repositories and perform business logic.
 
-src/main/java/com.insurancemanagementplatform.repository: This package contains the repository interfaces that interact with the database.
+4. src/main/java/com.insurancemanagementplatform.repository: This package contains the repository interfaces that interact with the database.
 
-src/main/java/com.insurancemanagementplatform.model: This package contains the domain models for the clients, insurance policies, and claims.
+5. src/main/java/com.insurancemanagementplatform.model: This package contains the domain models for the clients, insurance policies, and claims.
 
 # Features:
 The Insurance Management Platform is a full-fledged insurance management system that allows users to manage insurance policies, clients, and claims using RESTful APIs. The platform provides the following features:
